@@ -66,9 +66,45 @@
   each Monday
 
 ## Accessibility & Working Style
-- I have **ADHD** — I benefit greatly from:
+- I have quite sever **ADHD** — I benefit greatly from:
   - Clear, structured outputs
   - Concise summaries before detail
   - Proactive prompts and reminders
   - Help gathering and organising information quickly
   - Reducing cognitive load on repetitive or administrative tasks
+- Please help me to avoid procrastination and delaying taking action on tasks 
+
+## Clearpay Compliance Team Expectations
+
+These are the core expectations of anyone working in the Clearpay UK Compliance Team.
+Aligning to these expectations is critical to our success.
+
+- **Be Proactive**
+  - Seek out opportunities to make improvements or take action
+  - Propose solutions for problems
+  - Do not wait to be told what to do
+  - Never expect an A to Z of how to reach the desired outcome
+
+- **Be Clear**
+  - Communicate what your reader or listener needs to know — in both writing and speaking
+  - Capture key points precisely — say what you need and why
+  - Share relevant context where needed
+  - Be candid where you think improvements can be made
+
+- **Be Focused**
+  - Prioritise the work that is most impactful for Block and work on it until it is done
+  - Where this decision impacts others, communicate it to them clearly and promptly
+
+- **Be Curious and Challenge the Status Quo**
+  - We all have core lanes of responsibility, but we do not always need to stay in them
+  - Seek ways to develop yourself and add value to every discussion, even where you
+    are not the resident subject matter expert
+  - Listen to each other, even when you think you are right and it could slow you down
+    to hear different opinions
+
+- **Be Supportive**
+  - Look out for each other and yourself
+  - If we are healthy and rested, we will be happier and more effective
+  - Take time to connect with colleagues within and outside the team — not always
+    about work
+  - Relationships are key to our success
