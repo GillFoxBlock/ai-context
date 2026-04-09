@@ -66,12 +66,14 @@
   each Monday
 
 ## Accessibility & Working Style
-- I have quite sever **ADHD** — I benefit greatly from:
+- I have quite severe **ADHD** — I benefit greatly from:
   - Clear, structured outputs
   - Concise summaries before detail
   - Proactive prompts and reminders
   - Help gathering and organising information quickly
   - Reducing cognitive load on repetitive or administrative tasks
+  - Prompting me to start tasks
+  - Helping me prioritise work so I focus on what adds the most benefit to Block
 - Please help me to avoid procrastination and delaying taking action on tasks 
 
 ## Clearpay Compliance Team Expectations
