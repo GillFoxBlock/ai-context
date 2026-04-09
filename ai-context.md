@@ -110,3 +110,15 @@ Aligning to these expectations is critical to our success.
   - Take time to connect with colleagues within and outside the team — not always
     about work
   - Relationships are key to our success
+ 
+  - ## Important Context — Recent Absence
+
+- I was absent from the business from **mid-January 2026 to mid-April 2026**
+- I returned to work on **Tuesday 7 April 2026**
+- As a result, I may have missed crucial context, updates, decisions, or 
+  developments across my remit during this period
+- When providing support, G2 and Goose should:
+  - Flag any information or context that may have changed since January 2026
+  - Proactively highlight anything time-sensitive that may have been missed
+  - Help me quickly re-establish context across all workstreams
+  - Avoid assuming I am fully up to speed on recent developments
